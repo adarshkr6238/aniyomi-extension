@@ -6,12 +6,14 @@ Aniyomi extension for streaming with quality control, custom domains, and built-
 
 To use this extension, add the following URL to **Settings > Browse > Anime extension repos**:
 
-
+```
+https://raw.githubusercontent.com/adarshkr6238/aniyomi-extension/repo/index.min.json
+```
 
 ## 🛠️ Development
 
-- **Source Code**: Available on the [](https://github.com/adarshkr6238/aniyomi-extension/tree/source) branch.
-- **Hosted Assets**: Available on the [](https://github.com/adarshkr6238/aniyomi-extension/tree/repo) branch.
+- **Source Code**: Available on the [`source`](https://github.com/adarshkr6238/aniyomi-extension/tree/source) branch.
+- **Hosted Assets**: Available on the [`repo`](https://github.com/adarshkr6238/aniyomi-extension/tree/repo) branch.
 
 ## 🚀 Features
 
