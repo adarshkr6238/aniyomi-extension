@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7712717399296849392.xml:2:13-83
+INJECTED from /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7712717399296849392.xml:2:13-83
+	package
+		INJECTED from /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7712717399296849392.xml
+	xmlns:android
+		ADDED from /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7712717399296849392.xml:2:23-81
+uses-sdk
+INJECTED from /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7712717399296849392.xml reason: use-sdk injection requested
+INJECTED from /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7712717399296849392.xml
+INJECTED from /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7712717399296849392.xml
+	android:targetSdkVersion
+		INJECTED from /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7712717399296849392.xml
+	android:minSdkVersion
+		INJECTED from /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7712717399296849392.xml
