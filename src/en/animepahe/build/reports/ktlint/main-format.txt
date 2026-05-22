@@ -1,0 +1,4 @@
+/workspaces/aniyomi-extension/src/en/animepahe/src/eu/kanade/tachiyomi/animeextension/en/animepahe/UniversalSource.kt:48:1: Format fixed > [standard:no-trailing-spaces] Trailing space(s)
+/workspaces/aniyomi-extension/src/en/animepahe/src/eu/kanade/tachiyomi/animeextension/en/animepahe/UniversalSource.kt:54:47: Format fixed > [standard:trailing-comma-on-call-site] Missing trailing comma before ")"
+/workspaces/aniyomi-extension/src/en/animepahe/src/eu/kanade/tachiyomi/animeextension/en/animepahe/UniversalSource.kt:66:16: Format fixed > [standard:multiline-if-else] Missing { ... }
+/workspaces/aniyomi-extension/src/en/animepahe/src/eu/kanade/tachiyomi/animeextension/en/animepahe/UniversalSource.kt:79:8: Format fixed > [standard:no-trailing-spaces] Trailing space(s)

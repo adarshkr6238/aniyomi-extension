@@ -1,0 +1,9 @@
+eu.kanade.tachiyomi.animeextension.animepahe-packaged_res-0 /workspaces/aniyomi-extension/core/build/intermediates/packaged_res/debug
+eu.kanade.tachiyomi.animeextension.animepahe-packaged_res-1 /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/packaged_res/debug
+eu.kanade.tachiyomi.animeextension.animepahe-packaged_res-2 /workspaces/aniyomi-extension/lib/universal-extractor/build/intermediates/packaged_res/debug
+eu.kanade.tachiyomi.animeextension.animepahe-pngs-3 /workspaces/aniyomi-extension/src/en/animepahe/build/generated/res/pngs/debug
+eu.kanade.tachiyomi.animeextension.animepahe-mergeDebugResources-4 /workspaces/aniyomi-extension/src/en/animepahe/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+eu.kanade.tachiyomi.animeextension.animepahe-mergeDebugResources-5 /workspaces/aniyomi-extension/src/en/animepahe/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+eu.kanade.tachiyomi.animeextension.animepahe-merged_res-6 /workspaces/aniyomi-extension/src/en/animepahe/build/intermediates/merged_res/debug
+eu.kanade.tachiyomi.animeextension.animepahe-animepahe-7 /workspaces/aniyomi-extension/src/en/animepahe/res
+eu.kanade.tachiyomi.animeextension.animepahe-debug-8 /workspaces/aniyomi-extension/src/en/animepahe/src/debug/res
