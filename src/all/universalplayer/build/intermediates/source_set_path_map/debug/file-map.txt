@@ -1,0 +1,9 @@
+eu.kanade.tachiyomi.animeextension.universalplayer-packaged_res-0 /workspaces/aniyomi-extension/core/build/intermediates/packaged_res/debug
+eu.kanade.tachiyomi.animeextension.universalplayer-packaged_res-1 /workspaces/aniyomi-extension/lib/playlist-utils/build/intermediates/packaged_res/debug
+eu.kanade.tachiyomi.animeextension.universalplayer-packaged_res-2 /workspaces/aniyomi-extension/lib/universal-extractor/build/intermediates/packaged_res/debug
+eu.kanade.tachiyomi.animeextension.universalplayer-pngs-3 /workspaces/aniyomi-extension/src/all/universalplayer/build/generated/res/pngs/debug
+eu.kanade.tachiyomi.animeextension.universalplayer-mergeDebugResources-4 /workspaces/aniyomi-extension/src/all/universalplayer/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+eu.kanade.tachiyomi.animeextension.universalplayer-mergeDebugResources-5 /workspaces/aniyomi-extension/src/all/universalplayer/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+eu.kanade.tachiyomi.animeextension.universalplayer-merged_res-6 /workspaces/aniyomi-extension/src/all/universalplayer/build/intermediates/merged_res/debug
+eu.kanade.tachiyomi.animeextension.universalplayer-universalplayer-7 /workspaces/aniyomi-extension/src/all/universalplayer/res
+eu.kanade.tachiyomi.animeextension.universalplayer-debug-8 /workspaces/aniyomi-extension/src/all/universalplayer/src/debug/res
